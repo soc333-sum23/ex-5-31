@@ -39,7 +39,7 @@ How many respondents are left in this new data frame? (we started with 2000)
 
 ## Extra credit
 
-Use the chunks below to create other subsets of the `acs12` data. These are for practice; do as many or as few as you feel are useful to you. When you feel like you've got the basics down, try out some of the more complex filtering operators we discussed.
+Use the chunks below to create other subsets of the `acs12` data. Do as many or as few as you feel are useful to you. When you feel like you've got the basics down, try out some of the more complex filtering operators we discussed.
 
 Check your results by looking at summary statistics or tables. Look at your new data frames by opening them up from the environment panel.
 
